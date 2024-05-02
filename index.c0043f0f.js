@@ -1,0 +1,2 @@
+var e=document.querySelector(".icon--call"),t=document.querySelector(".top-bar__hover-desktop");e.addEventListener("mouseenter",function(){t.classList.add("top-bar__hover-desktop--active")}),e.addEventListener("mouseleave",function(){t.classList.remove("top-bar__hover-desktop--active")}),t.addEventListener("mouseenter",function(){t.classList.add("top-bar__hover-desktop--active")}),t.addEventListener("mouseleave",function(){t.classList.remove("top-bar__hover-desktop--active")});
+//# sourceMappingURL=index.c0043f0f.js.map
